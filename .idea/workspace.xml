@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c672fa7-8168-4418-9712-d47b5149721c" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="6c672fa7-8168-4418-9712-d47b5149721c" name="Changes" comment="remove local gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730961871445</updated>
-      <workItem from="1730961876952" duration="4098000" />
+      <workItem from="1730961876952" duration="4592000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730966281058</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730966281058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove local gitignore">
+      <created>1730966853147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730966853147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="remove local gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove local gitignore" />
   </component>
 </project>
